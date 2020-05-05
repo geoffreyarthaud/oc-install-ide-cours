@@ -16,5 +16,8 @@ public class BasicExample {
 	
 	public static void Message() {
 		System.out.println("Finish!");
+		System.out.println("Finish!");
+		System.out.println("Finish!");
+		System.out.println("Finish!");
 	}
 }
