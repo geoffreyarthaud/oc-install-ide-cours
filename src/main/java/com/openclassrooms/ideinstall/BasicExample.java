@@ -11,5 +11,10 @@ public class BasicExample {
 		for(j=0; j<5; j++) {
 			System.out.println("Hello world !");
 		}
+		Message();
+	}
+	
+	public static void Message() {
+		System.out.println("Finish!");
 	}
 }
