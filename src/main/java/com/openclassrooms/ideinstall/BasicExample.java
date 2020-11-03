@@ -1,5 +1,10 @@
 package com.openclassrooms.ideinstall;
 
+/**
+ * 
+ * Exemple
+ *
+ */
 public class BasicExample {
 
 	public static void main(String[] args) {
