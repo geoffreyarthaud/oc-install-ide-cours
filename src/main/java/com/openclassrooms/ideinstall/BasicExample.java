@@ -6,6 +6,7 @@ public class BasicExample {
 		int i;
 		for (i = 0; i < 4; i++) {
 			System.out.println("Hello bugs !");
+			System.out.println("test commit");
 		}
 	}
 }
