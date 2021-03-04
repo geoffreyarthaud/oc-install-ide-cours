@@ -10,6 +10,7 @@ public class BasicExample {
 			System.out.println("Hello guys");
 			System.out.println("good");
 			System.out.println("cool");
+			System.out.println("eh oui");
 		}
 	}
 }
