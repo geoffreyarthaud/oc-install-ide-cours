@@ -12,6 +12,7 @@ public class BasicExample {
 			System.out.println("cool");
 			System.out.println("eh oui");
 			System.out.println(" un de plus");
+			System.out.println("Toujours plus");
 		}
 	}
 }
