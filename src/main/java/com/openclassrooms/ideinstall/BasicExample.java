@@ -7,6 +7,9 @@ public class BasicExample {
 		for (i = 0; i <= 5; i++) {
 			System.out.println("Hello bugs !");
 			System.out.println("Hello friends !");
+			System.out.println("Hello guys");
+			System.out.println("good");
+			System.out.println("cool");
 		}
 	}
 }
