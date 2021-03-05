@@ -3,9 +3,16 @@ package com.openclassrooms.ideinstall;
 public class BasicExample {
 
 	public static void main(String[] args) {
-		final int index;
-		for(i=0; i>=0; i++) {
-			System.out.println("Hello bugs !"):
+		int i;
+		for (i = 0; i <= 5; i++) {
+			System.out.println("Hello bugs !");
+			System.out.println("Hello friends !");
+			System.out.println("Hello guys");
+			System.out.println("good");
+			System.out.println("cool");
+			System.out.println("eh oui");
+			System.out.println(" un de plus");
+			System.out.println("Toujours plus");
 		}
 	}
 }
