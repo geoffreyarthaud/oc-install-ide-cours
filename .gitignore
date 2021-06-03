@@ -16,3 +16,10 @@ buildNumber.properties
 \.project
 
 \.settings/
+/.idea/.gitignore
+/basic-example.iml
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
