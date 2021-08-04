@@ -7,6 +7,7 @@ public class BasicExample {
 		int i;
 		for(i=0; i<3; i++) {
 			 System.out.println("Hello bugs !");
+			 System.out.println("Ca fait " + i);
 			 System.out.println(i);
 		}
 	}
