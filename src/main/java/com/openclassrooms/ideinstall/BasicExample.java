@@ -4,8 +4,17 @@ public class BasicExample {
 
 	public static void main(String[] args) {
 		final int index;
-		for(i=0; i>=0; i++) {
-			System.out.println("Hello bugs !"):
+		for(int i=0; i<3; i++) {
+			System.out.println("Hello bugs ezezeezDERNIER!");
+			//aaaaaa
+			//sssssssssssssssss
+			
+			//sssssss
+			//qqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+			//xxxxxx
+			
+			
+			
 		}
 	}
 }
