@@ -6,6 +6,7 @@ public class BasicExample {
 		final int index;
 		for(int i=0; i<3; i++) {
 			System.out.println("Hello bugs ezezeez!");
+			//aaaaaa
 		}
 	}
 }
