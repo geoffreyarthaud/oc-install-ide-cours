@@ -5,3 +5,7 @@ Exemple utilisé dans le cours introductif OpenClassrooms "Installez votre envir
 # Test vidéo du 22/09/21
 
 Je teste les fonctionnalités de Github
+
+## Local developpement
+
+1. Open index.html int your browser.
