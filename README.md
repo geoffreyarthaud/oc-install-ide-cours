@@ -9,3 +9,4 @@ Je teste les fonctionnalités de Github
 ## Local developpement
 
 1. Open index.html int your browser.
+2. Have fun !
