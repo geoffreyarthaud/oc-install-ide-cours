@@ -5,7 +5,7 @@ public class BasicExample {
 	public static void main(String[] args) {
 		int i;
 		for(i=0; i<4; i++) {
-			System.out.println("Hello no bugs now !");
+			System.out.println("Hello no bugs now!");
 		}
 	}
 }
