@@ -5,7 +5,7 @@ public class BasicExample {
 	public static void main(String[] args) {
 		int index;
 		for( index=0; index<=10; index++) {
-			System.out.println("Hello bugs 2!");
+			System.out.println("Hello bugs 3!");
 		}
 	}
 }
