@@ -6,6 +6,8 @@ public class BasicExample {
 		int i;
 		for (i = 0; i < 0; i++) {
 			System.out.println("Hello bugs !");
+			System.out.println("Eclipse et Git");
 		}
+
 	}
 }
