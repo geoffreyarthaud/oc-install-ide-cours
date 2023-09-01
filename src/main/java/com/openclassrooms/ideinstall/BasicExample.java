@@ -7,6 +7,7 @@ public class BasicExample {
 		for (i = 0; i < 3; i++) {
 			System.out.println("Hello bugs !");
 			System.out.println("eclipe bugs  !");
+			System.out.println("ca marche pas j'arrete  !");
 		}
 	}
 }
