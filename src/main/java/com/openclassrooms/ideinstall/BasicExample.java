@@ -8,6 +8,7 @@ public class BasicExample {
 			System.out.println("Hello bugs !");
 			System.out.println("Hello bugs !:)");
 			System.out.println("Hello bugs !:):)");
+			System.out.println("Hello bugs !:):):)");
 		}
 	}
 }
