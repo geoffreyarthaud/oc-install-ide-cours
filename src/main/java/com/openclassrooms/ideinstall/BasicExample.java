@@ -11,6 +11,7 @@ public class BasicExample {
 			System.out.println("Hello bugs !3");
 			System.out.println("Hello bugs !4");
 			System.out.println("Hello bugs !5");
+			System.out.println("Hello bugs !6");
 		}
 	}
 }
