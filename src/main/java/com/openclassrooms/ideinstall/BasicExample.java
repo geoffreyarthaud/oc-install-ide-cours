@@ -6,7 +6,7 @@ public class BasicExample {
 		int i;
 		for (i = 0; i <= 10; i++) {
 			// affichage de message
-			System.out.println("Hello bugs !!");
+			System.out.println("Hello bugs !");
 		}
 	}
 }
