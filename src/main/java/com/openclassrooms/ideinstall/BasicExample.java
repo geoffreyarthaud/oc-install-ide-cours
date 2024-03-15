@@ -9,6 +9,7 @@ public class BasicExample {
 			// Ajout de commentaire TEST
 			// marche ou pas
 			// vraiment pas
+			// nul
 		}
 	}
 }
