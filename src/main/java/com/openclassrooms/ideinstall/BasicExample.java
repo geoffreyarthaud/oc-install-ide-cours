@@ -10,6 +10,7 @@ public class BasicExample {
 			// marche ou pas
 			// vraiment pas
 			// nul
+			// en fait il faut utiliser le token
 		}
 	}
 }
