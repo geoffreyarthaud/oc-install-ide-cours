@@ -7,7 +7,8 @@ public class BasicExample {
 		for (i = 0; i < 3; i++) {
 			System.out.println("Hello bugs !");
 			// Ajout de commentaire TEST
-			//marche ou pas
+			// marche ou pas
+			// vraiment pas
 		}
 	}
 }
